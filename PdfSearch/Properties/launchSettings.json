@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Profil \"1\"": {
-      "commandName": "Executable",
-      "executablePath": "C:\\Users\\felix\\Desktop\\Projekte\\PdfSearch\\PdfSearch\\bin\\Debug\\net6.0-windows\\PdfSearch.exe"
-    }
-  }
-}
